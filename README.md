@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🎓 **3rd-Year Computer Engineering Student** with a strong focus on **Machine Learning and AI**.
+🎓 **4rd-Year Computer Engineering Student** with a strong focus on **Machine Learning and AI**.
 
 🧠 Hands-on experience building end-to-end ML and AI systems across **Natural Language Processing, Computer Vision, and Retrieval-Augmented Generation (RAG)**.
 
