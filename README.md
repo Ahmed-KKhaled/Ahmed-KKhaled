@@ -1,14 +1,14 @@
-# 💫 About Me:
+#  About Me:
 
-🎓 **4rd-Year Computer Engineering Student** with a strong focus on **Machine Learning and AI**.
+ **4rd-Year Computer Engineering Student** with a strong focus on **Machine Learning and AI**.
 
-🧠 Hands-on experience building end-to-end ML and AI systems across **Natural Language Processing, Computer Vision, and Retrieval-Augmented Generation (RAG)**.
+ Hands-on experience building end-to-end ML and AI systems across **Natural Language Processing, Computer Vision, and Retrieval-Augmented Generation (RAG)**.
 
-🔍 Experienced in developing and evaluating **classical ML and deep learning models**, building **RAG pipelines with LLMs**, implementing semantic and hybrid search, and developing APIs for AI-powered applications.
+ Experienced in developing and evaluating **classical ML and deep learning models**, building **RAG pipelines with LLMs**, implementing semantic and hybrid search, and developing APIs for AI-powered applications.
 
-⚙️ Strong foundation in **Python, PyTorch, FastAPI, SQL, and modern ML/AI tooling**, with a focus on building practical, scalable, and deployment-ready systems.
+ Strong foundation in **Python, PyTorch, FastAPI, SQL, and modern ML/AI tooling**, with a focus on building practical, scalable, and deployment-ready systems.
 
-🔭 Currently exploring **LLMs, RAG, Generative AI, and production-oriented AI engineering**.
+ Currently exploring **LLMs, RAG, Generative AI, and production-oriented AI engineering**.
 
 ## 🌐 Socials:
 
